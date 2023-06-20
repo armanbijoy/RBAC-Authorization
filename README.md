@@ -17,10 +17,7 @@ The application is _almost_ **production ready**.
 
 ## To start setting up the project
 
-Step 1: Clone the repo
 
-```bash
-git clone https://github.com/trulymittal/role-based-access-control
 ```
 
 Step 2: cd into the cloned repo and run:
